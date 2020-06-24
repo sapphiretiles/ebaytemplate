@@ -1,10 +1,11 @@
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
-@import url(https://drive.google.com/file/d/1d9Lr74WRMH4SjfPG0MUz9Y4JfJ9mUjRK/view?usp=sharing);
-@import url(https://drive.google.com/file/d/1ggMe1bc1FnQ0cz9gRc5evE-moaDDdCL4/view?usp=sharing);
-@import url(https://drive.google.com/file/d/1ggMe1bc1FnQ0cz9gRc5evE-moaDDdCL4/view?usp=sharing);
-@import url(https://drive.google.com/file/d/18vJE7yYBp0Buln5wMwRktB_eWX6R-uh-/view?usp=sharing);
-@import url(https://drive.google.com/file/d/1uKC1USf_se9_OvmLWUvU7QSxoXRt_boW/view?usp=sharing);
-@import url(https://drive.google.com/file/d/1D_Fc5CTOGgz8ZQtCY9AUmAa3Wrp5pWeu/view?usp=sharing);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/general.css);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/app-reset.css);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/base-theme.css);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/carousel.css);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/general-mr.css);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/item-mr.css);
+@import url(https://github.com/sapphiretiles/ebaytemplate/blob/master/item.css);
 @media only screen and (max-width:1024px){
 
 /*CSS media query within a stylesheet*/
